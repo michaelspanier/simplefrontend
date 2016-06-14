@@ -1,7 +1,9 @@
 package de.colenet.allianz;
 
 /**
- * Created by Michael Spanier on 08.05.16.
+ * Created by Michael Spanier on 08.05.16
+ *
+ * Controller for the /greetings url
  */
 
 import org.springframework.web.bind.annotation.RequestMapping;
